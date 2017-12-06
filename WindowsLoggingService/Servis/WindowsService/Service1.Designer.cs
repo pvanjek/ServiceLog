@@ -1,4 +1,4 @@
-﻿namespace WindowsLoggingService
+﻿namespace WindowsService
 {
     partial class Service1
     {
